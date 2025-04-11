@@ -70,7 +70,7 @@
 
     #client
     {
-        margin: 20px 0;
+        margin: 40px 0 10px 0;
     }
 
     #client .row img
@@ -131,5 +131,45 @@
         width: 100%;
     }
 
+    #reinvent .reinvent-header-p
+    {
+        width: 100%;
+    }
+
+    #reinvent .statistics
+    {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    #reinvent .clubs-box
+    {
+        margin-top: 20px;
+    }
+
+    #reinvent .row_1st
+    {
+        margin-bottom: 20px;
+    }
+
+    #reinvent .payments-box
+    {
+        margin-top: 20px;
+    }
+
+    #pixelgrade
+    {
+        margin-bottom: 20px;
+    }
+
+    #pixelgrade .pg-text
+    {
+        margin: 20px 0;
+    }
+
+    #reinvent
+    {
+        padding: 40px 0;
+    }
 
 }

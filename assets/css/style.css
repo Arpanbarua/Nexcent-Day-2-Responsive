@@ -353,6 +353,11 @@ a
     margin-bottom: 42px;
 }
 
+#pixelgrade
+{
+    margin-bottom: 48px;
+}
+
 #pixelgrade .pg-img
 {
     width: 45%;
@@ -409,3 +414,86 @@ a
     background: var(--neutral-silver);
     transition: 0.7s;
 }
+
+#reinvent
+{
+    background: var(--neutral-silver);
+    padding: 84px 0;
+}
+
+#reinvent .reinvent-header-p
+{
+    width: 35%;
+}
+
+
+
+#reinvent .reinvent-header-p h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    color: var(--neutral-d-grey);
+    margin-bottom: 8px;
+    
+}
+
+#reinvent .reinvent-header-p h4 span
+{
+    color: var(--brand-primary);
+}
+
+#reinvent .reinvent-header-p p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #18191f;
+}
+
+#reinvent .statistics
+{
+    width: 40% ;
+}
+
+#reinvent .statistics .txt-box h4 
+{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 129%;
+    color: var(--neutral-d-grey);
+}
+
+#reinvent .statistics .txt-box p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--neutral-grey);
+}
+
+#reinvent .statistics .row_1st
+{
+    margin-bottom: 40px;
+}
+
+#reinvent .statistics .img-box 
+{
+    margin-right: 16px;
+    margin-top: 6px;
+}
+
+#reinvent .statistics .clubs-box
+{
+    margin-right: 40px;
+}
+
+
+
+
+
+
