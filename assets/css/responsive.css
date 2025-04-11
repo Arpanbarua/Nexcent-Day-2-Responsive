@@ -63,7 +63,22 @@
         padding-bottom: 5px;
     }
 
-    
+    #client .row
+    {
+        text-align: right;
+    }
+
+    #client .row img
+    {
+        padding-left: 10px;
+        padding-right: 20px;
+        padding-top: 5px ;
+    }
+
+    #client .text-section p
+    {
+        margin-bottom: 5px;
+    }
 
    
 

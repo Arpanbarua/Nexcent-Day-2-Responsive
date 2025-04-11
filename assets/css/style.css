@@ -245,4 +245,35 @@ a
    
 }
 
+#client
+{
+    margin: 40px 0 16px 0;
+}
+
+#client .text-section h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    text-align: center;
+    color: var(--neutral-d-grey);
+    margin-bottom: 8px;
+}
+
+#client .text-section p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-grey);
+    margin-bottom: 16px;
+}
+
+#client .row img
+{
+    padding: 25px 0;
+}
 
