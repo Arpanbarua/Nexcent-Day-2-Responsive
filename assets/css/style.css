@@ -285,6 +285,8 @@ a
     line-height: 122%;
     text-align: center;
     color: var(--neutral-d-grey);
+    width: 48%;
+    margin: auto;
 }
 
 #community .community-text p
@@ -346,7 +348,64 @@ a
     color: var(--neutral-grey);
 }
 
+#community
+{
+    margin-bottom: 42px;
+}
 
+#pixelgrade .pg-img
+{
+    width: 45%;
+}
 
+#pixelgrade .pg-text
+{
+    width: 55%;
+    margin: 82.5px 0;
+}
 
+#pixelgrade .pg-text h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    color: var(--neutral-d-grey);
+    width: 75%;
+    margin-bottom: 16px;
+}
 
+#pixelgrade .pg-text p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--neutral-grey);
+    margin-bottom: 32px;
+    width: 88%;
+    
+}
+
+#pixelgrade .pg-text a
+{
+    border-radius: 4px;
+    padding: 14px 32px;
+    width: 151px;
+    height: 52px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-white);
+    background: var(--brand-primary);
+}
+
+#pixelgrade .pg-text a:hover 
+{
+    color: var(--brand-secondary);
+    outline: 1px solid var(--brand-primary);
+    background: var(--neutral-silver);
+    transition: 0.7s;
+}

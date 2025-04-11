@@ -76,7 +76,7 @@
     #client .row img
     {
         padding-left: 10px;
-        padding-right: 20px;
+        padding-right: 25px;
         padding-top: 5px ;
     }
 
@@ -89,7 +89,7 @@
 
     #client .text-section p
     {
-        margin-bottom: 5px;
+        margin-bottom: 15px;
     }
 
     #community .community-text h4
@@ -108,5 +108,28 @@
         padding: 20px 25px;
         margin-bottom: 10px;
     }
+
+    #pixelgrade .pg-img
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    #pixelgrade .pg-img img 
+    {
+        width: 100%;
+    }
+
+    #pixelgrade .pg-text
+    {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    #pixelgrade .pg-text h4 
+    {
+        width: 100%;
+    }
+
 
 }
