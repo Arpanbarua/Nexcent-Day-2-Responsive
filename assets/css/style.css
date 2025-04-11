@@ -277,3 +277,76 @@ a
     padding: 25px 0;
 }
 
+#community .community-text h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    text-align: center;
+    color: var(--neutral-d-grey);
+}
+
+#community .community-text p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-grey);
+    margin: 8px 0 16px 0;
+}
+
+#community .row .cards
+{
+    width: 25%;
+    border-radius: 8px;
+    padding: 24px 32px;
+    box-shadow: 0 2px 4px 0 rgba(171, 190, 209, 0.2);
+    background: var(--neutral-white);
+}
+
+#community .row .cards .image-header
+{
+    padding: 24px 16px 0 16px;
+    text-align: center;
+   
+}
+
+#community .row .cards img
+{
+    
+    display: inline-block;
+    /* margin-left: 70px; */
+    margin-bottom: 20px;
+    
+}
+
+#community .row .cards h4
+{
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 129%;
+    text-align: center;
+    color: var(--neutral-d-grey);
+    margin-bottom: 16px;
+    padding:0 8px 0 8px ;
+}
+
+
+#community .row .cards p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    text-align: center;
+    color: var(--neutral-grey);
+}
+
+
+
+
+

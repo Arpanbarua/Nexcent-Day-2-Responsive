@@ -68,6 +68,11 @@
         text-align: right;
     }
 
+    #client
+    {
+        margin: 20px 0;
+    }
+
     #client .row img
     {
         padding-left: 10px;
@@ -75,11 +80,33 @@
         padding-top: 5px ;
     }
 
+    #client .text-section h4
+    {
+        font-size: 30px;
+    }
+
+   
+
     #client .text-section p
     {
         margin-bottom: 5px;
     }
 
+    #community .community-text h4
+    {
+        font-size: 30px;
+        width: 100%;
+    }
+
+    #community .row .cards
+    {
+        width: 100%;
+    }
    
+    #community .row .cards
+    {
+        padding: 20px 25px;
+        margin-bottom: 10px;
+    }
 
 }
