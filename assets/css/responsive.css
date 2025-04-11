@@ -1,0 +1,70 @@
+@media(max-width:992px)
+{
+
+    .container
+    {
+        width: 90%;
+    }
+
+    #nav .container img
+    {
+       display: inline-block;
+       margin-left: 5px;
+    }
+
+    .container ul
+    {
+        display: none;
+    }
+
+    #nav .container .bar
+    {
+        display: inline-block;
+        margin-right: 20px;
+    }
+
+    #nav .signup
+    {
+        display: none;
+    }
+
+    #banner .contains
+    {
+        width: 100%;
+    }
+
+    #banner .contains h4 
+    {
+        width: 100%;
+        font-size: 50px;
+    }
+    
+    #banner
+    {
+        padding: 30px 0;
+    }
+
+    #banner .img
+    {
+        margin-top: 30px;
+        width: 100%;
+        
+    }
+
+    #banner .img img 
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    #banner .slides
+    {
+        margin-top: 40px;
+        padding-bottom: 5px;
+    }
+
+    
+
+   
+
+}
