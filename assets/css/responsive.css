@@ -126,25 +126,42 @@
         margin-top: 25px;
     }
 
+    #pixelgrade .pg-text p
+    {
+        width: 100%;
+        text-align: justify;
+    }
     #pixelgrade .pg-text h4 
     {
         width: 100%;
+        text-align: center;
     }
 
     #reinvent .reinvent-header-p
     {
         width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
     }
 
     #reinvent .statistics
     {
         width: 100%;
         margin-top: 20px;
+        /* text-align: center; */
+        
+
     }
+
+    #reinvent .members-box, #reinvent .clubs-box, #reinvent .payments-box, #reinvent .events-box
+    {
+        margin-left: 70px;
+    } 
 
     #reinvent .clubs-box
     {
         margin-top: 20px;
+       /* margin-left: 60px; */
     }
 
     #reinvent .row_1st
@@ -160,6 +177,7 @@
     #pixelgrade
     {
         margin-bottom: 20px;
+        text-align: center;
     }
 
     #pixelgrade .pg-text
@@ -172,4 +190,92 @@
         padding: 40px 0;
     }
 
+    #design-footer .design-img img
+    {
+        width: 100%;
+    }
+
+    #design-footer .design-img
+    {
+        width: 100%;
+        text-align: center;
+    }
+
+    #design-footer .design-txt
+    {
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    #design-footer .design-txt p
+    {
+        text-align: justify;
+        margin-bottom: 30px;
+    }
+
+    #design-footer .design-txt h4 
+    {
+        text-align: center;
+    }
+
+    #design-footer
+    {
+        text-align: center;
+    }
+
+    /*-------- quote section ----------*/
+    #quote .logo
+    {
+        width: 100%;
+    }
+
+    #quote .quote-txt
+    {
+        width: 100%;
+    }
+
+    #quote .quote-txt .row p
+    {
+        margin-top: 15px;
+    }
+
+    /*-------- caring section ----------*/
+    #caring .caring-txt h4
+    {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    #caring .caring-txt p 
+    {
+        width: 100%;
+        text-align: justify;
+    }
+
+    .caring-cards .cards
+    {
+        width: 100%;
+        margin-bottom: 120px;
+    }
+
+    /*-------- prefooter section ----------*/
+    #prefooter
+    {
+        margin-top: 5px;
+    }
+
+    #prefooter .heading h4
+    {
+       font-size: 32px;
+       width: 100%;
+       margin-bottom: 20px;
+    }
+
+
+
+
+
+
+    /*-------- prefooter section ----------*/
+    
 }

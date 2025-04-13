@@ -405,6 +405,7 @@ a
     text-align: center;
     color: var(--neutral-white);
     background: var(--brand-primary);
+    display: inline-block;
 }
 
 #pixelgrade .pg-text a:hover 
@@ -418,7 +419,8 @@ a
 #reinvent
 {
     background: var(--neutral-silver);
-    padding: 84px 0;
+    padding: 64px 0;
+    margin-bottom: 48px ;
 }
 
 #reinvent .reinvent-header-p
@@ -492,8 +494,290 @@ a
     margin-right: 40px;
 }
 
+/*-------- design footer start ----------*/
+
+#design-footer .design-txt h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    color: var(--neutral-d-grey);
+    margin-bottom: 16px;
+}
+
+#design-footer .design-txt p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--neutral-grey);
+    margin-bottom: 16px;
+}
+
+#design-footer .design-txt a
+{
+    border-radius: 4px;
+    padding: 14px 32px;
+    width: 151px;
+    height: 52px;
+    background: var(--brand-primary);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-white);
+    display: inline-block;
+}
+
+#design-footer .design-txt a:hover
+{
+    color: var(--neutral-black);
+    background-color: var(--neutral-silver);
+    outline: 1px solid var(--brand-primary);
+}
+
+#design-footer .design-txt 
+{
+    width: 50%;
+}
+
+#design-footer .design-img
+{
+    width: 40%;
+}
+
+#design-footer .row
+{
+    align-items: center;
+
+}
+
+#design-footer
+{
+    margin-bottom: 48px;
+}
+/*-------- design footer end ----------*/
+
+/*-------- quote section start----------*/
+#quote 
+{
+    background: var(--neutral-silver);
+    margin-bottom: 48px;
+}
+
+/* #quote .row
+{
+    align-items: center;
+} */
+
+#quote .quote-txt .row
+{
+    align-items: center;
+
+}
+
+#quote .logo
+{
+    width: 30%;
+
+}
+
+#quote .logo img
+{
+    margin-top: 32px;
+    width: 100%;
+}
+
+#quote .quote-txt
+{
+    width: 65%;
+    margin-top: 33px;
+}
+
+#quote .quote-txt p
+{
+    margin-bottom: 16px;
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--neutral-grey);
+    margin-bottom: 32px;
+    text-align: justify;
+}
+
+#quote .quote-txt h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--brand-primary);
+    margin-bottom: 8px;
+}
+
+#quote .quote-txt p:last-child
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: var(--neutral-l-grey);
+}
+
+#quote .quote-txt .row p
+{
+    margin: 8px 0;
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--brand-primary);
+}
+
+#quote .quote-txt .row
+{
+    margin-bottom: 33px;
+}
+/*-------- quote section end ----------*/
+
+/*-------- caring section start ----------*/
+
+
+#caring .caring-txt h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 122%;
+    text-align: center;
+    color: var(--neutral-d-grey);
+    margin-bottom: 8px;
+}
+
+#caring .caring-txt p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-grey);
+    width: 60%;
+    margin: auto;
+}
+
+#caring .caring-txt
+{
+    margin-bottom: 16px;
+}
+
+.caring-cards .cards
+{
+    width: 30%;
+    position: relative;
+    
+}
 
 
 
 
+.caring-cards .cards img
+{
+    width: 100%;
+   
+}
+
+.caring-cards .cards .card-txt
+{
+    width: 90%;
+    background: var(--neutral-silver);
+    border-radius: 8px;
+    padding: 16px;
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    display: block;
+    box-shadow: 0 8px 16px 0 rgba(171, 190, 209, 0.4);
+   
+    
+}
+
+.caring-cards .cards .card-txt p
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+    color: var(--neutral-grey);
+    
+}
+
+.caring-cards .cards .card-txt .readmore
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--brand-primary);
+    margin: 24px 0 8px 0;
+}
+
+
+/*-------- caring section end ----------*/
+
+/*-------- prefooter section start ----------*/
+
+#prefooter
+{
+    margin-top: 150px ;
+    text-align: center;
+    background: var(--neutral-silver);
+    
+}
+
+#prefooter .heading
+{
+    padding-top: 32px;
+}
+
+#prefooter .heading h4
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 119%;
+    text-align: center;
+    color: var(--neutral-black);
+    width: 70%;
+    margin: auto;
+    margin-bottom: 32px;
+}
+
+#prefooter .heading a
+{
+    border-radius: 4px;
+    padding: 14px 32px;
+    background: var(--brand-primary);
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: var(--neutral-white);
+    display: inline-block;
+    margin-bottom: 32px;
+    
+}
+
+#prefooter .heading a:hover 
+{
+    color: var(--brand-secondary);
+    background: var(--neutral-silver);
+    outline: 1px solid var(--brand-primary);
+}
 
