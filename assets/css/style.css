@@ -783,3 +783,132 @@ a
     outline: 1px solid var(--brand-primary);
 }
 
+#footer
+{
+    background: var(--neutral-black);
+    /* background: black; */
+}
+
+
+#footer .copy
+{
+    margin: 64px 0 74.33px 0;
+}
+
+#footer .copy p
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--neutral-silver);
+   
+}
+
+#footer .copy .para
+{
+    margin: 40px 0;
+}
+
+#footer .copy .para .reserved
+{
+    margin-top: 8px;
+}
+
+
+
+#footer .copy a
+{
+    color: var(--neutral-white);
+}
+
+#footer .copy
+{
+    width: 20%;
+}
+
+
+#footer .three-list
+{
+    width: 60%;
+    margin: 64px 0;
+}
+
+#footer .three-list .row .list-one p
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--neutral-white);
+}
+
+#footer .three-list .row .list-one ul
+{
+    margin-top: 24px;
+    /* display: block; */
+}
+
+#footer .three-list .row .list-one ul a
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--neutral-silver);
+    padding-left: 0px;
+    
+}
+
+#footer .three-list .row .list-one ul li 
+{
+    display: block;
+    margin-bottom: 12px ;
+    /* text-align: left; */
+}
+
+#footer .three-list .row .uptodate label
+{
+    font-family: var(--font-family);
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 140%;
+    color: var(--neutral-white);
+    
+} 
+
+#footer .three-list .row .uptodate input
+{
+    border-radius: 8px;
+    width: 255px;
+    height: 40px;
+    background: var(--neutral-grey-blue);
+    opacity: 0.7;
+    margin-top: 24px;
+    
+}
+
+
+
+input::placeholder
+{
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 143%;
+    color: var(--shade-s5);
+    padding: 9px 0 11px 12px;
+    display: inline-block;
+}
+
+#footer .three-list .row .uptodate .send
+{
+    color: var(--neutral-white);
+    /* margin: 10px 0 5px 0; */
+    display: inline-block;
+    /* bottom:1%; */
+    
+}
+
+
+

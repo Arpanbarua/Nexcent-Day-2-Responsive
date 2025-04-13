@@ -271,11 +271,32 @@
        margin-bottom: 20px;
     }
 
+    #footer .copy
+    {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #footer .three-list
+    {
+        width: 100%;
+        margin: 30px 0;
+    }
+
+    #footer .three-list .row .list-one ul
+    {
+        display: block;
+    }
+
+    #footer .three-list .row .uptodate
+    {
+        margin-top: 15px;
+    }
 
 
 
 
 
-    /*-------- prefooter section ----------*/
+    /*-------- footer section ----------*/
     
 }
